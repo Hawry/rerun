@@ -1,6 +1,9 @@
 # Rerun
 
+This is a fork of the original rerun available here:
 <http://github.com/alexch/rerun>
+
+The only difference between this version and the original is the versioning that also includes the `--force-polling` flag.
 
 Rerun launches your program, then watches the filesystem. If a relevant file
 changes, then it restarts your program.

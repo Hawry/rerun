@@ -1,6 +1,8 @@
 # Rerun
 
-<http://github.com/alexch/rerun>
+A fork of the original rerun: <http://github.com/alexch/rerun>
+
+This fork only releases the latest commit to rubygems, which includes the `--force-polling`-flag and therefore work on WSL.
 
 Rerun launches your program, then watches the filesystem. If a relevant file
 changes, then it restarts your program.
